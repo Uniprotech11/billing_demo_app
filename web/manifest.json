@@ -1,6 +1,6 @@
 {
-    "name": "billing_demo_app",
-    "short_name": "billing_demo_app",
+    "name": "billing_app_new1",
+    "short_name": "billing_app_new1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
